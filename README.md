@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## React Countries
+
+Projeto criado durante o Bootcamp de Full Stack da IGTI. O objetivo era consumir uma API de países usando React 
 
 ## Available Scripts
 
